@@ -9,11 +9,11 @@
 
 ### 1. 关键词的数量
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221119110945705.png" alt="image-20221119110945705" style="zoom:70%;" />
+<img src="http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221119110945705.png" alt="image-20221119110945705" style="zoom:70%;" />
 
 ### 2.不同标签的数量
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221119111025233.png" alt="image-20221119111025233" style="zoom:70%;" />
+<img src="http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221119111025233.png" alt="image-20221119111025233" style="zoom:70%;" />
 
 ``` python
 category  label
@@ -40,7 +40,7 @@ label  label
 
 ### 3.统计句子的长度
 
-![image-20221119111030981](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221119111030981.png)
+![image-20221119111030981](http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221119111030981.png)
 
 ## 2、模型训练
 
@@ -61,9 +61,9 @@ test_acc 0.9330669330669331
 weighted avg   0.933036  0.933067  0.932860      2002
 ```
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221128162148523.png" alt="image-20221128162148523" style="zoom:80%;" />
+<img src="http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221128162148523.png" alt="image-20221128162148523" style="zoom:80%;" />
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221128162200528.png" alt="image-20221128162200528" style="zoom:80%;" />
+<img src="http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221128162200528.png" alt="image-20221128162200528" style="zoom:80%;" />
 
 ## 3、trick
 
@@ -99,9 +99,9 @@ test_acc 0.9295704295704296
 weighted avg   0.929653  0.929570  0.929606      2002
 ```
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221128162217700.png" alt="image-20221128162217700" style="zoom:80%;" />
+<img src="http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221128162217700.png" alt="image-20221128162217700" style="zoom:80%;" />
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221128162238421.png" alt="image-20221128162238421" style="zoom:80%;" />
+<img src="http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221128162238421.png" alt="image-20221128162238421" style="zoom:80%;" />
 
 使用回译的方法，效果不明显。
 
@@ -126,9 +126,9 @@ test_acc 0.9315684315684316
 weighted avg   0.931565  0.931568  0.931333      2002
 ```
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221128193659795.png" alt="image-20221128193659795" style="zoom:80%;" />
+<img src="http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221128193659795.png" alt="image-20221128193659795" style="zoom:80%;" />
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221128193708813.png" alt="image-20221128193708813" style="zoom:80%;" />
+<img src="http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221128193708813.png" alt="image-20221128193708813" style="zoom:80%;" />
 
 效果不明显。
 
@@ -147,6 +147,6 @@ weighted avg   0.931565  0.931568  0.931333      2002
 weighted avg   0.934467  0.934565  0.934475      2002
 ```
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221128202910379.png" alt="image-20221128202910379" style="zoom:80%;" />
+<img src="http://rmaux11hx.hn-bkt.clouddn.com/img/image-20221128202910379.png" alt="image-20221128202910379" style="zoom:80%;" />
 
 集成后分类效果提升。
