@@ -6,11 +6,11 @@
 
 ### 1. 关键词的数量
 
-<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-202408.png" alt="image-20221119110945705" style="zoom:70%;" />
+<img src="https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-120501.png" alt="image-20221119110945705" style="zoom:70%;" />
 
 ### 2.不同标签的数量
 
-<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-202410.png" alt="image-20221119111025233" style="zoom:70%;" />
+<img src="https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-120549.png" alt="image-20230307120548142" style="zoom:70%;" />
 
 ``` python
 category  label
@@ -37,7 +37,7 @@ label  label
 
 ### 3.统计句子的长度
 
-![image-20221119111030981](https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-202412.png)
+![image-20230307120644505](https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-120645.png)
 
 ## 2、模型训练
 
@@ -58,9 +58,9 @@ test_acc 0.9330669330669331
 weighted avg   0.933036  0.933067  0.932860      2002
 ```
 
-<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-202414.png" alt="image-20221128162148523" style="zoom:80%;" />
+<img src="https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-120754.png" alt="image-20230307120753397" style="zoom:80%;" />
 
-<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-202416.png" alt="image-20221128162200528" style="zoom:80%;" />
+<img src="https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-120723.png" alt="image-20230307120722504" style="zoom: 80%;" />
 
 ## 3、trick
 
@@ -96,9 +96,9 @@ test_acc 0.9295704295704296
 weighted avg   0.929653  0.929570  0.929606      2002
 ```
 
-<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-202418.png" alt="image-20221128162217700" style="zoom:80%;" />
+<img src="https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-120820.png" alt="image-20230307120819055" style="zoom:80%;" />
 
-<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-202420.png" alt="image-20221128162238421" style="zoom:80%;" />
+<img src="https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-120835.png" alt="image-20230307120834481" style="zoom:80%;" />
 
 使用回译的方法，效果不明显。
 
@@ -123,9 +123,9 @@ test_acc 0.9315684315684316
 weighted avg   0.931565  0.931568  0.931333      2002
 ```
 
-<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-202422.png" alt="image-20221128193659795" style="zoom:80%;" />
+<img src="https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-120905.png" alt="image-20230307120904377" style="zoom:80%;" />
 
-<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-202424.png" alt="image-20221128193708813" style="zoom:80%;" />
+<img src="https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-120943.png" alt="image-20230307120942517" style="zoom:80%;" />
 
 效果不明显。
 
@@ -144,6 +144,6 @@ weighted avg   0.931565  0.931568  0.931333      2002
 weighted avg   0.934467  0.934565  0.934475      2002
 ```
 
-<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-202426.png" alt="image-20221128202910379" style="zoom:80%;" />
+<img src="https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-121008.png" alt="image-20230307121007134" style="zoom:80%;" />
 
 集成后分类效果提升。
